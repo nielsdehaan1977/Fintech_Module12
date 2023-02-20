@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 
 ### Purpose of the analysis.
-Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. Analysis uses various techniques to train and evaluate models with imbalanced classes. Analysis uses a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. Analysis uses various techniques to train and evaluate models with imbalanced classes. This analysis uses a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 ### Data 
 1. The dataset contains a large amount of loan data, in which the column 'loan_status' has a value of either 0 or 1. A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting. 
